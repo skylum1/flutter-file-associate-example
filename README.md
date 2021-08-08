@@ -1,6 +1,6 @@
 # open_file
 
-A new Flutter project.
+An example app for learning opening flutter apps for  custom file extension from another app using intents. 
 
 ## Getting Started
 
